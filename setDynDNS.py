@@ -1,6 +1,7 @@
 test test
 salut  print(salut);
-dazda
+dazda testdazdazd
+
 while condition:
     pass
     pass
